@@ -39,15 +39,15 @@ I have published 10+ papers at the peer review journal with total <a href='https
 
 Advisors: Prof. Xiaoyou Su (PUMC) & Prof. Shenglan Tang (Duke University)
 
-- • Led a mixed-methods study as the principal investigator to investigate the coverage and the willingness of HPV testing among MSM in China, and using the Information-Motivation-Behavioral Skills (IMB) model to explore influencing factors.
-• Investigated MSM preferences for HPV testing services and assessed the feasibility of offering HPV testing through community organizations.
-• Developed the study protocol, conducted data collection and analysis, and contributed to manuscript writing.. 
+- Led a mixed-methods study as the principal investigator to investigate the coverage and the willingness of HPV testing among MSM in China, and using the Information-Motivation-Behavioral Skills (IMB) model to explore influencing factors.
+- Investigated MSM preferences for HPV testing services and assessed the feasibility of offering HPV testing through community organizations.
+- Developed the study protocol, conducted data collection and analysis, and contributed to manuscript writing. 
 </div>
 </div>
 
 - [A Digital Health Intervention on Healthy Behaviors Among Men Who Have Sex with Men in China Based on Information-Motivation-Behavioral Skills Model: An Exploratory Real-World Study](https://www.tandfonline.com/doi/full/10.1080/19317611.2025.2547308), Zhenwei Dai, **Xin liu**, Xiaoyang Liu, **International Journal of Sexual Health**
 - [Uptake and hesitancy of the second booster dose of COVID-19 vaccine among the general population in China after the surge period of the COVID-19 pandemic: a large-scale national study]((https://link.springer.com/article/10.1186/s12889-025-21691-x)),  **Xin liu**, Xiaoyou Su, Youlin Qiao, **BMC Public Health**
-- [Characteristics and influencing factors of anticipated HIV stigma among HIV-negative/unknown MSM in China: A regression mixture model]([https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.3472), Zhenwei Dai, Yijin Wu, **Xin liu**, **AIDS and Behavior**
+- [Characteristics and influencing factors of anticipated HIV stigma among HIV-negative/unknown MSM in China: A regression mixture model]([https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.3472), Zhenwei Dai, Yijin Wu, **Xin liu**, **Brain and Behavior**
 - [COVID-19 Vaccine Hesitancy Among People Living with HIV: A Systematic Review and Meta-Analysis]([https://link.springer.com/article/10.1007/s10461-024-04344-9),  **Xin liu**, Shenglan Tang, Xiaoyou Su, **AIDS and Behavior**
 
 # 🎖 Honors and Awards
@@ -64,8 +64,12 @@ Advisors: Prof. Xiaoyou Su (PUMC) & Prof. Shenglan Tang (Duke University)
 - *2017.09 - 2021.06*, Guangzhou Medical University, Guangzhou, China
 
 # 💬 Invited Talks
-- *2023.04*, "COVID - 19 vaccine hesitancy among people living with HIV: a systematic review and meta -analysis" Behavioral Health Branch of Chinese Preventive Medicine Association (Oral presentation). 
+- *2023.04*, "COVID-19 vaccine hesitancy among people living with HIV: a systematic review and meta -analysis" Behavioral Health Branch of Chinese Preventive Medicine Association (Oral presentation). 
 
 # 💻 Internships
 - *2023.03 - 2024.09*, [China Medical Board](https://cmbfound.org/), Beijing, China.
-- *2023.03 - 2024.09*, [Sino-French Hoffman Institute](https://sfhi.gzhmu.edu.cn/en/index.htm), Guangzhou, China.
+- Assisted with CMB Programs including the China Consortium of Leading Teaching Hospitals for Child Mental Health, the Global Health Leadership Development Program, and Open Competition, supporting application processes and work progress tracking.
+- Facilitated Sino-American medical exchanges, assisting with delegations from the Hong Kong University, University of Michigan, Harvard University, and the University of Chicago to China.
+
+- *2018.02 - 2021.06*, [Sino-French Hoffman Institute](https://sfhi.gzhmu.edu.cn/en/index.htm), Guangzhou, China.
+- Assisted graduate students in experiments, including drosophila breeding and generation transfer, mutant screening and identification, preparation of experimental materials, and participation in various experiments such as bacterial culture and injection, protein electrophoresis, and PCR. Also contributed to data analysis and result interpretation.
